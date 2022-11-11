@@ -30,10 +30,10 @@ function calcular() {
                 resultado = operador1 / operador2
                 break;
         }
-        presultado.innerText= "TU RESULTADO ES = " + resultado
+        presultado.innerText= "TU RESULTADO ES = " + resultado + ":)"
         presultado.style = "color:blue-violet"
     }else{
         presultado.style = "color:red"
-        presultado.innerText="No se puede realizar este calculo (INGRESE VALORES VALIDOS)"
+        presultado.innerText="No se puede realizar este calculo (INGRESE VALORES VALIDOS)" :(
     }
 }
