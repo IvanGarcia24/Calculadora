@@ -44,13 +44,12 @@ p{
 }
 
 .footer{
-    margin:auto;
+  margin:auto;
     display: block;
     border-color: blueviolet;
     color:blueviolet;
-    margin-top: 50px;
-    margin-left: 560px;
-    margin-right: 180px;
+    margin-left: 775px;
+    margin-bottom: 10px;
     
    
 }
