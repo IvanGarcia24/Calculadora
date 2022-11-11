@@ -34,6 +34,6 @@ function calcular() {
         presultado.style = "color:blue-violet"
     }else{
         presultado.style = "color:red"
-        presultado.innerText="No se puede realizar este calculo (INGRESE VALORES VALIDOS)" :(
+        presultado.innerText="No se puede realizar este calculo (INGRESE VALORES VALIDOS)  :)" 
     }
 }
